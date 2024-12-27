@@ -61,6 +61,11 @@ button.operation {
 }
 
 button.clear {
+    background-color: yellow;
+    color: #fff;
+}
+
+button.backspace {
     background-color: #ff3b30;
     color: #fff;
 }
